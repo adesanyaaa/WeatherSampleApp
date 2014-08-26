@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WeatherSampleApp</string>
+    <string name="humidity">Humidity: </string>
+    <string name="windSpeed">Wind Speed: </string>
+    <string name="windGust">Wind Gust: </string>
+    <string name="windDirection">Wind Direction: </string>
+    <string name="locationName">Location Name: </string>
+    <string name="getWeatherButton">Get Weather</string>
+    <string name="tryAgain">Please try again</string>
+    <string name="OK">OK</string>
+</resources>
